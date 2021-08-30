@@ -8,14 +8,14 @@ execute this command :
 
 
 ## ScreenShoot of the app
+<img src="src/images/listCharacters.jpg" width="200">
 List Characters of Pokemon
-![](src/images/listCharacters.jpg)
 
+<img src="src/images/detailCharacter.jpg" width="200">
 List Character detail 
-![](src/images/detailCharacter.jpg)
 
+<img src="src/images/listItems.jpg" width="200">
 List Items for Pokemon
-![](src/images/listItems.jpg)
 
+<img src="src/images/detailItem.jpg" width="200">
 List Item detail
-![](src/images/detailItem.jpg)
