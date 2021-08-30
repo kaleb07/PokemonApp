@@ -1,0 +1,8 @@
+const routesName = {
+  LIST_CHARACTERS: 'LIST_CHARACTERS',
+  DETAIL_CHARACTERS: 'DETAIL_CHARACTERS',
+  LIST_ITEM: 'LIST_ITEM',
+  DETAIL_ITEM: 'DETAIL_ITEM',
+};
+
+export {routesName};
